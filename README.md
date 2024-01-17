@@ -1,4 +1,4 @@
-# proj_with_reso
+# flutter_tdd_solid
 
 A new Flutter project.
 
